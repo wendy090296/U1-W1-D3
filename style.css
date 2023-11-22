@@ -1,0 +1,44 @@
+img {
+  width: 150px;
+}
+
+header {
+  text-align: center;
+}
+h1 {
+  display: inline;
+}
+.foto-focaccia {
+  width: 600px;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.first-div {
+  background-color: burlywood;
+  margin: 2.5em;
+}
+/* non funziona lo stile al <hr> */
+hr {
+  color: blue;
+}
+
+p {
+  display: block;
+  text-align: center;
+}
+
+main {
+  text-align: left;
+}
+
+article {
+  text-align: center;
+}
+
+body {
+  background-color: antiquewhite;
+}
+section {
+  text-align: left;
+}
